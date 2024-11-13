@@ -1,4 +1,9 @@
-## Hi there 👋
+## Izumi
+- Server Owner @ Modern Gaming
+- My latest Project at [Discord](https://discord.gg/mg-jvs)
+- Average Weed Enjoyer 🌱
+
+[![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=IzumiTheCapybara&theme=merko&hide_border=true)]
 
 <!--
 **LunaTheCapybara/LunaTheCapybara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
