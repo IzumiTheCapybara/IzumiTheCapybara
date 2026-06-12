@@ -1,5 +1,5 @@
 ## Izumi
-- DevOps @ Furlumin (https://discord.gg/7ZW4jztRud)
+- Freelance Developer
 - Average Weed Enjoyer 🌱
 
 [![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=IzumiTheCapybara&theme=merko&hide_border=true)]
